@@ -1,6 +1,6 @@
 /*
  * Batalha Naval em C (nível aventureiro)
-// Entrega de trabalho para graduação em ADS (Escola Estácio de Sá) 
+// Entrega de trabalho para graduação em ADS (Escola Estácio) 
  *
  * Regras solicitadas:
  * - Tabuleiro 10x10 (matriz de inteiros)
